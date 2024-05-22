@@ -2,20 +2,20 @@ body {
     margin: 0;
     padding: 0;
     font: 'Poppins', sans-serif;
-    color: #502030;
+    color: #0b3b2d;
     }
     
     .servicos {
         text-align: center;
     }
     .servicos-sobre{
-        color: #502030;
+        color: #0f5a35;
     }
 
     .header-container {
         width: 100vw;
         height: 100vh;
-        background-color: #bfbfc1;
+        background-color: #e0c68d;
         background-size: contain;
         display: flex;
         flex-direction: column;
@@ -54,13 +54,13 @@ body {
         display: flex;
         align-items: center;
         justify-content: center;
-        background-color: #bfbfc1;
-        background-image: url('./img/GitHub-Mark.png');
+        background-color: #2a9c30;
+        background-image: url('');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
         filter: grayscale(0.5);
-        color: #806060;
+        color: #0b3b2d;
         cursor: pointer;
         transition: 0.5s ease-in-out;
      }
@@ -68,7 +68,7 @@ body {
      .card-text {
         width: 60%;
         letter-spacing: 1px;
-        color: #614b60;
+        color: #0f5a35;
      }
     
      .card-wrapper{
@@ -87,7 +87,7 @@ body {
         height: 100px;
         border-radius: 50%;
         display: block;
-        border: 1px solid #eee8ee;
+        border: 2px solid #e6d8bc;
         opacity: 0;
         transition: 0.5s ease-in-out;
      }
