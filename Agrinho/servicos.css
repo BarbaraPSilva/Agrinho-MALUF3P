@@ -3,8 +3,16 @@ body {
     padding: 0;
     font: 'Poppins', sans-serif;
     color: #0b3b2d;
+    background-color: #fae2ae;
     }
     
+    .enviar {
+      background-color: #2a9c30;
+       width: 80px;
+       height: 40px;
+       border-radius: 50%;
+    }
+
     .servicos {
         text-align: center;
     }
